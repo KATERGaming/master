@@ -10,3 +10,5 @@ BlacklistedUsers = {
 	115836014, -- Team_c00lkidds
 	1164631419, -- spooky
 }
+
+return BlacklistedUsers
