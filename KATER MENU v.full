@@ -1,1 +1,3 @@
-loadstring(game:HttpGet(('https://pastebin.com/raw/NdrDs8rC'),true))()
+-- https://pastebin.com/raw/Z6FzxqFd
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KATERGaming/Roblox/main/KaterHub.Lua"))()
