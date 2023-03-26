@@ -9,6 +9,7 @@ BlacklistedUsers = {
 	3026491929,
 	115836014, -- Team_c00lkidds
 	1164631419, -- spooky
+	1922990593, -- goofy ahh radio guy
 }
 
 return BlacklistedUsers
