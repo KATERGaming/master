@@ -6,4 +6,4 @@ katerhubprem = {
 	282180782, -- ceren (das ding ist sie würde jedem loch geben!)
 }
 
-return katerhubprem
+return katerhubprem;
