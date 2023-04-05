@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(28, 44, 58);
+}
+
+.cryo-card {
+    position: relative;
+    width: 350px;
+    margin: auto;
+    top: 250px;
+}
+
+.alert {
+    margin: auto;
+    width: 300px;
+    height: 45px;
+    bottom: 5px;
+}
