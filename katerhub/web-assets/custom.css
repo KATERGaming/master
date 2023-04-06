@@ -1,0 +1,41 @@
+.packages {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 50px;
+}
+
+.package {
+    width: auto;
+    margin-top: 40px;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.avatar i {
+    position: relative;
+    right: 25px;
+    bottom: 105px;
+    color: rgb(71, 173, 208);
+}
+
+.avatar i:hover {
+    color: rgb(128, 178, 194);
+}
+
+.package img {
+    width: 150px;
+}
+
+.info {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
