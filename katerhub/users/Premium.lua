@@ -5,7 +5,6 @@ katerhubprem = {
 	2548112369, -- Farted kid
 	282180782, -- ceren (GAY)
 	433526031, -- 1Fo (Fortnite Streamer)
-	935862376, -- arthur (24kDrips)
 }
 
 return katerhubprem;
