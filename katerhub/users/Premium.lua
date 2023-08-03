@@ -6,6 +6,7 @@ katerhubprem = {
 	282180782, -- ceren (GAY)
 	433526031, -- 1Fo (Fortnite Streamer)
 	3741914212, -- Zurly808
+	1527694478, -- Ninja
 }
 
 return katerhubprem;
