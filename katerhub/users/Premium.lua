@@ -1,4 +1,4 @@
-katerhubprem = {
+katerhubstars = {
 	3932155354, -- Colin (adibaiwbod123)
 	620731643, -- 100NotFound (OG)
 	1500467286, -- Wojtek (OG)
@@ -9,4 +9,4 @@ katerhubprem = {
 	1527694478, -- Ninja
 }
 
-return katerhubprem;
+return katerhubstars;
