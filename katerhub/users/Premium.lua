@@ -7,6 +7,7 @@ katerhubstars = {
 	433526031, -- 1Fo (Fortnite Streamer)
 	3741914212, -- Zurly808
 	1527694478, -- Ninja
+	2405228342, -- TheEmanurlERMBOY
 }
 
 return katerhubstars;
