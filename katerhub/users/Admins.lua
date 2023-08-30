@@ -12,6 +12,7 @@ katerhubadmins = {
   	717521694, -- Kater 2
   	1103530540, -- 24KDrips 2 acc
     4045519446,
+    2934858602, 
 }
 
 return katerhubadmins;
