@@ -9,6 +9,7 @@ katerhubstars = {
 	1527694478, -- Ninja
 	2405228342, -- TheEmanurlERMBOY
 	2033262439, -- 42Q_user
+	4706077003, -- byfronWho_L
 }
 
 return katerhubstars;
