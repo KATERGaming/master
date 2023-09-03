@@ -10,7 +10,8 @@ katerhubstars = {
 	2405228342, -- TheEmanurlERMBOY
 	2033262439, -- 42Q_user
 	4706077003, -- byfronWho_L
-	--1464911478, -- Drillz gf (Uwu love) 
+	1464911478, -- Drillz gf (Uwu love)
+	1352698039, -- Ricardo (dahood guy)
 }
 
 return katerhubstars;
