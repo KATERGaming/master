@@ -11,8 +11,9 @@ katerhubadmins = {
   	1448750441, -- Ben gamingde
   	717521694, -- Kater 2
   	1103530540, -- 24KDrips 2 acc
-    4045519446, -- vitor
-    2934858602, -- dev=ice
+	4045519446, -- vitor
+	2934858602, -- dev=ice
+	3720721551, -- dev=ice
 }
 
 return katerhubadmins;
