@@ -13,7 +13,7 @@ katerhubstars = {
 	1464911478, -- Drillz gf (Uwu love)
 	1352698039, -- Ricardo (dahood guy)
 	618940391, -- dollmannis
-	--2024983878, -- (dahood modded guy)
+	4642947692, -- (dahood gamer girl uwu)
 	2497941915, -- Jimmy
 }
 
