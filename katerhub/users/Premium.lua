@@ -16,6 +16,7 @@ katerhubstars = {
 	4642947692, -- (dahood gamer girl uwu)
 	2497941915, -- Jimmy
 	3956745069, -- jimmy 2
+	3088440704, -- asiantbh
 }
 
 return katerhubstars;
