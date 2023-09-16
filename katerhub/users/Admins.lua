@@ -5,7 +5,6 @@ katerhubadmins = {
 	2752924063, -- R0hambo
 	151922487, -- TylerJ
 	2207719666, -- Sefi
-	277059340, -- berat
   	935862376, -- 24KDrips
   	659424770, -- Kter 4
   	1448750441, -- Ben gamingde
