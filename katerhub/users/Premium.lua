@@ -11,7 +11,6 @@ katerhubstars = {
 	2033262439, -- 42Q_user
 	4706077003, -- byfronWho_L
 	1464911478, -- Drillz gf (Uwu love)
-	1352698039, -- Ricardo (dahood guy)
 	618940391, -- dollmannis
 	4642947692, -- (dahood gamer girl uwu)
 	2497941915, -- Jimmy
