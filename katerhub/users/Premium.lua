@@ -18,6 +18,7 @@ katerhubstars = {
 	--3088440704, -- asiantbh
 	4476143468, -- byklexi
 	3409605853, -- 23_lolan (763467983493660683)
+	5113868874, -- vitor playstation
 }
 
 return katerhubstars;
