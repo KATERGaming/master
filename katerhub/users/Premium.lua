@@ -22,6 +22,7 @@ katerhubstars = {
 	4045519446, -- vitor pc
 	813990562, -- taco
 	2566895126, -- Ragdoll guy
+	1894037343, -- miami
 }
 
 return katerhubstars;
