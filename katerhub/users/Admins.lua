@@ -8,7 +8,7 @@ katerhubadmins = {
   	935862376, -- 24KDrips
   	659424770, -- Kter 4
   	1448750441, -- Ben gamingde
-  	--717521694, -- Kater 2
+  	717521694, -- Kater 2
   	1103530540, -- 24KDrips 2 acc
 	4045519446, -- vitor
 	2934858602, -- dev=ice
