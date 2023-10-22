@@ -9,7 +9,7 @@ trashtalk = {
   "You mad 😘",
   "get better kid",
   "Trash",
-  "i hate 🐱‍👤s!"
+  "i hate ninjas!"
 }
 
 return trashtalk;
