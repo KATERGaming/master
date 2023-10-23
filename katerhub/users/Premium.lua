@@ -25,6 +25,7 @@ katerhubstars = {
 	1894037343, -- miami
 	1163489700, -- drillz sister
 	--3109345494, -- Luv
+	2653637152, -- KenCarson (Dahood Guy)
 }
 
 return katerhubstars;
