@@ -1,0 +1,5 @@
+blacklistedusers = {
+  
+}
+
+return blacklistedusers;
