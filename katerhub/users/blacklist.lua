@@ -5,7 +5,6 @@ blacklistedusers = {
   "4824922591",
   "3380269507",
   "4682027051",
-  "7124788812", -- Jan
 }
 
 return blacklistedusers;
