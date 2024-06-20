@@ -8,7 +8,9 @@ trashtalk = {
   "Keep crying about it 😢😢",
   "You mad 😘",
   "get better kid",
-  "Trash"
+  "Trash",
+  "we spin yo block 🙏🙏🔫🔫",
+  "we pull up with glocks and dracos 🔫🙏"
 }
 
 return trashtalk;
