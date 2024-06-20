@@ -28,6 +28,7 @@ katerhubstars = {
 	2653637152, -- KenCarson (Dahood Guy)
 	3214835882, -- grave
 	155496675, -- mangooo
+	3188110682, -- flame
 }
 
 return katerhubstars;
