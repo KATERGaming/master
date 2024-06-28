@@ -29,6 +29,7 @@ katerhubstars = {
 	3214835882, -- grave
 	155496675, -- mangooo
 	4291323787,
+	319475128,
 }
 
 return katerhubstars;
