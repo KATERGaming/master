@@ -10,6 +10,7 @@ katerhubstars = {
 	2405228342, -- TheEmanurlERMBOY
 	2033262439, -- 42Q_user
 	4706077003, -- byfronWho_L
+	4710783998, --byfronWho_LL
 	1464911478, -- Drillz gf (Uwu love)
 	618940391, -- dollmannis
 	4642947692, -- (dahood gamer girl uwu)
