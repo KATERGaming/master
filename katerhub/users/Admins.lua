@@ -15,6 +15,7 @@ katerhubadmins = {
 	3720721551, -- dev=ice
 	5099937264, -- Eduardo
 	3188110682, -- flame
+	1853050994, -- hecker
 }
 
 return katerhubadmins;
