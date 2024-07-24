@@ -32,6 +32,7 @@ katerhubstars = {
 	4291323787,
 	319475128,
 	4024696510,
+	7041580464, -- htcvicepro
 }
 
 return katerhubstars;
