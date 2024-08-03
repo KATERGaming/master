@@ -8,9 +8,6 @@ blacklistedusers = {
   3109367271,
   3188110682,
   2295939288,
-1315079405,
-5019346459,
-5019335397,
 }
 
 return blacklistedusers;
