@@ -34,7 +34,6 @@ katerhubstars = {
 	4024696510,
 	7041580464, -- htcvicepro
 	1315079405, -- margo
-	7344674424, -- ALT ACCOUNT (KaterHub)
 }
 
 return katerhubstars;
