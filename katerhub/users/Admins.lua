@@ -16,7 +16,6 @@ katerhubadmins = {
 	5099937264, -- Eduardo
 	1853050994, -- hecker
 	766298, -- 22Savage
-	--7344674424, -- ALT ACCOUNT (KaterHub)
 }
 
 return katerhubadmins;
