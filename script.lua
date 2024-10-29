@@ -5,7 +5,7 @@
 ██╔═██╗ ██╔══██║   ██║   ██╔══╝  ██╔══██╗    ██╔══██║██║   ██║██╔══██╗
 ██║  ██╗██║  ██║   ██║   ███████╗██║  ██║    ██║  ██║╚██████╔╝██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝   
-v.7
+-- LATEST VERSION OF SCRIPT (DISCORD AND EVERYTHING FOUND IN SCRIPT)
 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KATERGaming/Roblox/main/KaterHub.Lua"))()
