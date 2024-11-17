@@ -9,8 +9,8 @@ users = {
   3188110682, -- flame der nega
   2295939288, -- dumb bitch
   3049958953, -- lasbian hoe (13)
-  2910181102, -- lasbian hoe (13)
   1544263490, -- lasbian hoe (13)
+  1464911478, -- Drillz gf (Uwu love)
 }
 
 return users;
