@@ -11,6 +11,7 @@ users = {
   3049958953, -- lasbian hoe (13)
   1544263490, -- lasbian hoe (13)
   1464911478, -- Drillz gf (Uwu love)
+  2792113770, -- brin
 }
 
 return users;
