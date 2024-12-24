@@ -12,8 +12,6 @@ users = {
   1544263490, -- lasbian hoe (13)
   1464911478, -- Drillz gf (Uwu love)
   2792113770, -- brin
-  1315079405, -- Pedo
-  5019346459, -- Pedo alt acc
 }
 
 return users;
