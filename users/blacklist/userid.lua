@@ -12,6 +12,7 @@ users = {
   1544263490, -- lasbian hoe (13)
   1464911478, -- Drillz gf (Uwu love)
   2792113770, -- brin
+  411731161, -- Stupid ass Hood Modded nigga with no parents (is a fucking slut that keeps stomping people and saying the are usin lock, please rape her like her father did)
 }
 
 return users;
