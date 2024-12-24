@@ -33,8 +33,8 @@ return {
 	4024696510,
 	7041580464, -- htcvicepro
 	1315079405, -- margo
-	7344674424, -- nigga acc
 	2517821705, -- [[1260212728128082041]] 
 	378420866,
 	2910181102, -- lesbian alex donator  [[907344673616584744]]
+	437757950, -- purgedriot (gave it to him against his own will) [[511514390491693056]]
 };
