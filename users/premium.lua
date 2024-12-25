@@ -38,4 +38,5 @@ return {
 	2910181102, -- lesbian alex donator  [[907344673616584744]]
 	437757950, -- purgedriot (gave it to him against his own will) [[511514390491693056]]
 	7344674424, -- annony
+	2486654949, -- abimo [[846583690372317236]] (free)
 };
