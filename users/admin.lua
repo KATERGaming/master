@@ -13,6 +13,5 @@
 	4045519446, -- vitor
 	5099937264, -- Eduardo
 	1853050994, -- hecker
-	7344674424, -- average webhook cracker in games
 	766298, -- 22Savage
 };
