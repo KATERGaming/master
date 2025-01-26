@@ -16,7 +16,6 @@ return {
 	2497941915, -- Jimmy
 	3956745069, -- jimmy 2
 	--3088440704, -- asiantbh
-	4476143468, -- byklexi
 	3409605853, -- 23_lolan (763467983493660683)
 	5113868874, -- vitor playstation
 	4045519446, -- vitor pc
