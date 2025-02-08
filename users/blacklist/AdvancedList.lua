@@ -15,6 +15,7 @@ return {
   [411731161] = "Stupid ass Hood Modded nigga with no parents (is a fucking slut that keeps stomping people and saying the are usin lock, please rape her like her father did)";
   [528474124] = '"Dont leave" (Gets fucking killed over 15 times)'; -- Dahood
   [529113116] = '"Go back to work nga" (dumb fucking hoe gets beaten by her boyfriend)'; -- Dahood
+  [2399670479] = "biggest fucking skid (Owner of Spanish hub aka Gay Hub)";
 
   ["00000-00000-000"] = ".";
   ["83.85.57.222"] = ".";
