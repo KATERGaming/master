@@ -16,6 +16,7 @@ return {
   [528474124] = '"Dont leave" (Gets fucking killed over 15 times)'; -- Dahood
   [529113116] = '"Go back to work nga" (dumb fucking hoe gets beaten by her boyfriend)'; -- Dahood
   [2399670479] = "biggest fucking skid (Owner of Spanish hub aka Gay Hub)";
+  [514801018] = "nigga has a gay simp friend (nga thinks shes god with him)";
 
   ["00000-00000-000"] = ".";
   ["83.85.57.222"] = ".";
