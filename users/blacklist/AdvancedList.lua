@@ -24,6 +24,8 @@ return {
   [7070266650] = '.';
   [4388458014] = 'this he is god using his fucking huawai china phone as a stand script in dahood (please kill yourself)';
   [3619204710] = ".";
+  [3070585956] = ".";
+  [4434906528] = "bitte geh dich erhängen du dummer hurensohn";
   
   ["00000-00000-000"] = ".";
   ["83.85.57.222"] = ".";
