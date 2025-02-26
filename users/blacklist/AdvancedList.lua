@@ -28,6 +28,8 @@ return {
   [4434906528] = "bitte geh dich erhängen du dummer hurensohn";
   [7174537257] = "bro thinks he roblox jesus";
   [5419582606] = "bro thinks he roblox jesus";
+  [3842515716] = ".";
+  [3464718016] = ".";
   
   ["00000-00000-000"] = ".";
   ["83.85.57.222"] = ".";
