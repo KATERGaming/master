@@ -23,4 +23,5 @@ return {
 	364489941, -- [[928411869616701550]] (finian)
 	4023044258, -- [[970710081631035452]] (Klappgaming)
 	7184570452, -- [[PUPPY SIGMA GAVE US MONEY]]
+	8418504200, -- [[1323025533570777108]] (deutscher aus spaß gegeben)
 };
