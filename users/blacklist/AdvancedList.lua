@@ -40,6 +40,7 @@ return {
   [3364845793] = "dumbass bladeball player";
   [3145512471] = "make my script free";
   [7544916799] = "sorry we dont accept gay users in our community.";
+  [1233515660] = nil;
   
   ["00000-00000-000"] = ".";
 }
