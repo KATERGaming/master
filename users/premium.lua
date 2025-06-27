@@ -37,4 +37,5 @@ return {
 	119685658, -- [[890620688619143259]] (server booster)
 	7730537348, -- [[823887139933913120]] (tshirt methode, early)
 	1685166340, -- [[872167447027916840]] (tshirt methode, early)
+	1814574885, -- [[1000255239049465936]] (tshirt methode, early)
 };
