@@ -12,6 +12,7 @@ return {
   [1544263490] = ".";
   [1464911478] = ".";
   [2792113770] = ".";
+  [7344674424] = ".";
   [411731161] = "Stupid ass Hood Modded nigga with no parents (is a fucking slut that keeps stomping people and saying the are usin lock, please rape her like her father did)";
   [528474124] = '"Dont leave" (Gets fucking killed over 15 times)';
   [529113116] = '"Go back to work nga" (dumb fucking hoe gets beaten by her boyfriend)';
@@ -35,11 +36,13 @@ return {
   [3549717416] = "schlampe 🚨";
   [1862242301] = "schlampe 🚨";
   [4687290657] = "schlampe 🚨";
+  [659424770] = ".";
   [4863529510] = ".";
   [4347607978] = ".";
   [3364845793] = "dumbass bladeball player";
   [3145512471] = "make my script free";
   [7544916799] = "sorry we dont accept gay users in our community.";
+  [7950222370] = nil;
   [1233515660] = nil;
   [1596990522] = nil;
   
