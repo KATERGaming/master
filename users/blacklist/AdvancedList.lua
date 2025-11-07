@@ -1,7 +1,7 @@
 return {
   [1147757113] = "just a stupid ass kid";
   [1344734565] = ".";
-  [3091023538] = "stupid ass furry killyourselfe please dumbnigga your parents hate you because you are gay you dumb fucking bitch (just please killyourselfe)."; -- Got Banned on roblox
+  [3091023538] = "stupid ass furry killyourselfe please dumbnigga your parents hate you because you are gay you dumb fucking bitch (just please killyourselfe)."; -- Got Banned on roblox [[773291558492438578]]
   [4682027051] = ".";
   [4824922591] = ".";
   [3380269507] = ".";
