@@ -23,12 +23,12 @@ return {
   [2219179758] = 'said "ohh alr watch" in an attempt to kill me (he got fucking executed in shame).';
   [7111160570] = 'said "ohh alr watch" in an attempt to kill me (he got fucking executed in shame).';
   [7070266650] = '.';
-  [4388458014] = 'this he is god using his fucking huawai china phone as a stand script in dahood (please kill yourself)';
+  [4388458014] = '.'; -- dont remove
   [3619204710] = ".";
   [3070585956] = ".";
-  [4434906528] = "bitte geh dich erhängen du dummer hurensohn";
-  [7174537257] = "bro thinks he roblox jesus";
-  [5419582606] = "bro thinks he roblox jesus";
+  [4434906528] = "."; -- dont remove
+  [7174537257] = "."; -- dont remove
+  [5419582606] = "."; -- dont remove
   [3842515716] = ".";
   [3464718016] = ".";
   [3249243838] = "12 year old thinks he cold af";
@@ -45,8 +45,8 @@ return {
   [7950222370] = ".";
   [1233515660] = ".";
   [1596990522] = ".";
-  [2763025709] = "femboy with dead parents";
-  [2319397464] = "russian femboy with stand script in dahood";
+  [2763025709] = "."; -- dont remove
+  [2319397464] = "."; -- dont remove
   [8824520545] = ".";
   [8936344471] = ".";
   [8936344529] = ".";
@@ -57,8 +57,9 @@ return {
   [8616809717] = ".";
   [8042678797] = ".";
   [7644452982] = ".";
-  [7057255113] = "dahood nigga with no family";
+  [7057255113] = "."; -- dont remove
   [5044786305] = ".";
+  [5596712222] = "."; -- dont remove
   
   ["00000-00000-000"] = ".";
 }
